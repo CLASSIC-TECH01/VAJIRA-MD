@@ -19,6 +19,12 @@
 <hr>
 
 
+## JOIN MY WHATSAPP CHANNEL
+
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+
+
+
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
 ## CONTACT OWNER
@@ -47,10 +53,10 @@
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
 
-<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://paircode0-11304b2f69df.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 
-<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://paircode02-fc19c7206fd1.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 <hr>
 
